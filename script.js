@@ -32,7 +32,7 @@ const CONFIG = {
 
   // --- WhatsApp Numbers (for RSVP) ---
   groomWhatsapp: "201010708617",
-  brideWhatsapp: "2011064420664",
+  brideWhatsapp: "201064420664",
 
   // --- Social Media Links ---
   social: {
